@@ -56,7 +56,7 @@ a       dd      1
 b       dd      1
 c       dd      1
 iter    dd      100000001
-i       dd      0
+i       dd      1
         section .text
         global  _start
 _start: 
